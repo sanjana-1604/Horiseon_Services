@@ -6,6 +6,9 @@ Update the site to follows accessibility standards so that site is optimized for
 ## Installation
 N/A
 
+## Screenshots
+![Screen-shot -01] (./assets/Screen_shots/Scr-01.png)
+
 ## Link
 https://sanjana-1604.github.io/Horiseon_Services/
 
